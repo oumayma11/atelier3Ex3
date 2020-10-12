@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "atelier3Ex3"
+    }
+  },
+  "defaultProject": "atelier3Ex3",
+  "cli": {
+    "analytics": "8d8ef091-8899-4a5c-83bb-5a927ac62ff4"
+  }
 }
